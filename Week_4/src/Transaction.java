@@ -7,8 +7,9 @@ public class Transaction {
     public static final String WITHDRAW = "WITHDRAW";
 
     /**
-     * Contractor.
+     * Constructor.
      * */
+
     public Transaction(String operation, double amount, double balance) {
         this.operation = operation;
         this.amount = amount;
