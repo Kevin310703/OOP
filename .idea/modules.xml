@@ -8,12 +8,15 @@
       <module fileurl="file://$PROJECT_DIR$/Week_5/Extend_2/Extend_2.iml" filepath="$PROJECT_DIR$/Week_5/Extend_2/Extend_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/Fraction/Fraction.iml" filepath="$PROJECT_DIR$/Week_3/Fraction/Fraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_7/Polymorphism_1/Polymorphism_1.iml" filepath="$PROJECT_DIR$/Week_7/Polymorphism_1/Polymorphism_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_7/Polymorphism_2/Polymorphism_2.iml" filepath="$PROJECT_DIR$/Week_7/Polymorphism_2/Polymorphism_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/StudentManagement/StudentManagement.iml" filepath="$PROJECT_DIR$/Week_3/StudentManagement/StudentManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1+2/Week_1+2.iml" filepath="$PROJECT_DIR$/Week_1+2/Week_1+2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/Week_3.iml" filepath="$PROJECT_DIR$/Week_3/Week_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_4/Week_4.iml" filepath="$PROJECT_DIR$/Week_4/Week_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_5/Week_5.iml" filepath="$PROJECT_DIR$/Week_5/Week_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_6/Week_6.iml" filepath="$PROJECT_DIR$/Week_6/Week_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_7/Week_7.iml" filepath="$PROJECT_DIR$/Week_7/Week_7.iml" />
     </modules>
   </component>
 </project>
