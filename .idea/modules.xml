@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week_7/Exam_Abstract_1/Exam_Abstract_1.iml" filepath="$PROJECT_DIR$/Week_7/Exam_Abstract_1/Exam_Abstract_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_6/Exception_1/Exception_1.iml" filepath="$PROJECT_DIR$/Week_6/Exception_1/Exception_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_6/Exception_2/Exception_2.iml" filepath="$PROJECT_DIR$/Week_6/Exception_2/Exception_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_5/Extend_1/Extend_1.iml" filepath="$PROJECT_DIR$/Week_5/Extend_1/Extend_1.iml" />
@@ -17,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/Week_5/Week_5.iml" filepath="$PROJECT_DIR$/Week_5/Week_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_6/Week_6.iml" filepath="$PROJECT_DIR$/Week_6/Week_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_7/Week_7.iml" filepath="$PROJECT_DIR$/Week_7/Week_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_8/Week_8.iml" filepath="$PROJECT_DIR$/Week_8/Week_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_9/Week_9.iml" filepath="$PROJECT_DIR$/Week_9/Week_9.iml" />
     </modules>
   </component>
 </project>
